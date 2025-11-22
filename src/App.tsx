@@ -1,0 +1,1 @@
+import React from 'react'; const App = () => <h1>Mangaldeep College Of Engineering Website</h1>; export default App;
